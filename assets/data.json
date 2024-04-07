@@ -1,0 +1,39 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Early RAM was directly seated onto the motherboard and could not be easily removed?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The name of technology company HP stands for what?",
+            "correct_answer": "Hewlett-Packard",
+            "incorrect_answers": [
+                "Howard Packmann",
+                "Husker-Pollosk",
+                "Hellman-Pohl"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was the first Android version specifically optimized for tablets?",
+            "correct_answer": "Honeycomb",
+            "incorrect_answers": [
+                "Eclair",
+                "Froyo",
+                "Marshmellow"
+            ]
+        }
+    ]
+}
