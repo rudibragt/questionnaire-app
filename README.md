@@ -6,4 +6,4 @@ Flutter demo project.
 
 - Get the Flutter package installed
 - Clone the app repo
-- Run Flutter pub get && Flutter run from the command line
+- Run flutter pub get && flutter run from the command line
